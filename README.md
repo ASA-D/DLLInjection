@@ -1,31 +1,28 @@
 # DLLInjection
-DLL Injection Library &amp; Tools
+DLLインジェクションのためのライブラリとツール
 
 
 Copyright (c) 2015, Nettitude
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without modification, 
-are permitted provided that the following conditions are met:
+ソースおよびバイナリ形式で、変更の有無にかかわらず、再配布および使用することができます。
+これは、以下の条件を満たす場合に限り、許可されます。
 
-1. Redistributions of source code must retain the above copyright notice, 
-   this list of conditions and the following disclaimer.
+1. 著作権表示を保持してください。
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+2. バイナリ形式で再配布する場合は、著作権表示を再現する必要があります。
+   この条件および以下の免責事項を文書に記載してください。
+   
+3. 著作権者の名前およびその貢献者の名前は、いずれも著作権者のものではありません。
+   本ソフトウェアから派生した製品を推奨または宣伝するために、無断で使用することはできません。
+   事前に書面による特別な許可を得てください。
 
-3. Neither the name of the copyright holder nor the names of its contributors
-   may be used to endorse or promote products derived from this software without 
-   specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
-EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
-OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
-IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, 
-INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, 
-BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, 
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR 
-OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
-THE POSSIBILITY OF SUCH DAMAGE.
+本ソフトウェアは、著作権者および貢献者によって「現状のまま」提供されるものであり、どのような明示または黙示の保証（黙示の保証を含むが、これに限定されない）。
+また、商品性および特定目的への適合性は放棄されます。
+いかなる場合においても、著作権者または貢献者は、いかなる直接的または間接的な責任も負わないものとします。
+これは間接的、偶発的、特別、典型的、または結果的な損害
+（代用品やサービスの利用、使用機会の損失など）に限定されるものではありません。
+どのような原因であれ、どのような理論であれ、また、事業の中断であれ、 
+契約、厳格責任、不法行為（過失を含む）のいずれであっても、その責任は重大です。
+本ソフトウェアの使用に起因して何らかの形で発生した場合、たとえそのことを知らされていたとしても、本ソフトウェアを使用することはできません。
+そのような損害の可能性があること。
